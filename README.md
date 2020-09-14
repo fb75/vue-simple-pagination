@@ -1,4 +1,8 @@
-# todo
+# vue-simple-pagination
+```
+Utility for fetching local json data (or change integrating call on remote API) and auto-paging items providing value from lacal variable.
+Full responsive and no additional dependecies needed (Vuex, Vue Router, etc).
+```
 
 ## Project setup
 ```
